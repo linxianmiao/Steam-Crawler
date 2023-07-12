@@ -1,11 +1,18 @@
-# pachong
-steam爬虫
+# Steam-Crawler
+
+Steam-Crawler
+
+
 
 # 使用说明
 
 `
 python3 -m venv .venv
+
+
 . .venv/bin/activate 
+
+
 pip install -r requirements.txt
 `
 

@@ -2,9 +2,12 @@
 
 Steam-Crawler
 
+Use ```request.get``` to get data from ```https://store.steampowered.com/curators/ajaxgetcurators//?query=&start=0&count=10&dynamic_data=&keywords=&filter=all&appid=0``` 
+
+And the curators' metadata is hide in ```var g_rgTopCurators```
 
 
-# 使用说明
+# Instruction
 
 `
 python3 -m venv .venv
